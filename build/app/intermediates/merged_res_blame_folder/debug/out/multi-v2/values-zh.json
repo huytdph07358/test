@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "F:\\PancakeChat-develop\\PancakeChat-develop\\mobile\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-zh\\values-zh.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\huy\\.gradle\\caches\\transforms-3\\cff937f58d0099534aab65bf01a67cb1\\transformed\\jetified-ucrop-2.2.8\\res\\values-zh\\values-zh.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,97,151,205,252,296",
+                        "endColumns": "41,53,53,46,43,42",
+                        "endOffsets": "92,146,200,247,291,334"
+                    }
+                }
+            ]
+        }
+    ]
+}

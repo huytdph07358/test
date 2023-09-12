@@ -1,0 +1,27 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\huy\AppData\Local\Pub\Cache\git\callkeep-d8f5417037f06cd62b5b3559349b10f340f9fbfe\android\src\main\AndroidManifest.xml:2:1-6:12
+INJECTED from C:\Users\huy\AppData\Local\Pub\Cache\git\callkeep-d8f5417037f06cd62b5b3559349b10f340f9fbfe\android\src\main\AndroidManifest.xml:2:1-6:12
+INJECTED from C:\Users\huy\AppData\Local\Pub\Cache\git\callkeep-d8f5417037f06cd62b5b3559349b10f340f9fbfe\android\src\main\AndroidManifest.xml:2:1-6:12
+	package
+		ADDED from C:\Users\huy\AppData\Local\Pub\Cache\git\callkeep-d8f5417037f06cd62b5b3559349b10f340f9fbfe\android\src\main\AndroidManifest.xml:2:70-96
+		INJECTED from C:\Users\huy\AppData\Local\Pub\Cache\git\callkeep-d8f5417037f06cd62b5b3559349b10f340f9fbfe\android\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\huy\AppData\Local\Pub\Cache\git\callkeep-d8f5417037f06cd62b5b3559349b10f340f9fbfe\android\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\huy\AppData\Local\Pub\Cache\git\callkeep-d8f5417037f06cd62b5b3559349b10f340f9fbfe\android\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.CALL_PHONE
+ADDED from C:\Users\huy\AppData\Local\Pub\Cache\git\callkeep-d8f5417037f06cd62b5b3559349b10f340f9fbfe\android\src\main\AndroidManifest.xml:4:5-69
+	android:name
+		ADDED from C:\Users\huy\AppData\Local\Pub\Cache\git\callkeep-d8f5417037f06cd62b5b3559349b10f340f9fbfe\android\src\main\AndroidManifest.xml:4:22-66
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\huy\AppData\Local\Pub\Cache\git\callkeep-d8f5417037f06cd62b5b3559349b10f340f9fbfe\android\src\main\AndroidManifest.xml:5:5-75
+	android:name
+		ADDED from C:\Users\huy\AppData\Local\Pub\Cache\git\callkeep-d8f5417037f06cd62b5b3559349b10f340f9fbfe\android\src\main\AndroidManifest.xml:5:22-72
+uses-sdk
+INJECTED from C:\Users\huy\AppData\Local\Pub\Cache\git\callkeep-d8f5417037f06cd62b5b3559349b10f340f9fbfe\android\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\huy\AppData\Local\Pub\Cache\git\callkeep-d8f5417037f06cd62b5b3559349b10f340f9fbfe\android\src\main\AndroidManifest.xml
+INJECTED from C:\Users\huy\AppData\Local\Pub\Cache\git\callkeep-d8f5417037f06cd62b5b3559349b10f340f9fbfe\android\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\huy\AppData\Local\Pub\Cache\git\callkeep-d8f5417037f06cd62b5b3559349b10f340f9fbfe\android\src\main\AndroidManifest.xml
+		ADDED from C:\Users\huy\AppData\Local\Pub\Cache\git\callkeep-d8f5417037f06cd62b5b3559349b10f340f9fbfe\android\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\huy\AppData\Local\Pub\Cache\git\callkeep-d8f5417037f06cd62b5b3559349b10f340f9fbfe\android\src\main\AndroidManifest.xml

@@ -1,0 +1,35 @@
+io/wazo/callkeep/utils/PermissionUtils.java
+ io.wazo.callkeep.utils.PermissionUtils
+ io.wazo.callkeep.utils.PermissionUtils$1
+ io.wazo.callkeep.utils.PermissionUtils$Callback
+ io.wazo.callkeep.utils.PermissionUtils$RequestPermissionsFragment
+com/github/cloudwebrtc/flutter_callkeep/FlutterCallkeepPlugin.java
+ com.github.cloudwebrtc.flutter_callkeep.FlutterCallkeepPlugin
+io/wazo/callkeep/utils/ConstraintsArray.java
+ io.wazo.callkeep.utils.ConstraintsArray
+io/wazo/callkeep/utils/ObjectType.java
+ io.wazo.callkeep.utils.ObjectType
+io/wazo/callkeep/utils/ConstraintsMap.java
+ io.wazo.callkeep.utils.ConstraintsMap
+io/wazo/callkeep/VoiceConnectionService.java
+ io.wazo.callkeep.VoiceConnectionService
+ io.wazo.callkeep.VoiceConnectionService$1
+ io.wazo.callkeep.VoiceConnectionService$2
+io/wazo/callkeep/CallKeepModule.java
+ io.wazo.callkeep.CallKeepModule
+ io.wazo.callkeep.CallKeepModule$1
+ io.wazo.callkeep.CallKeepModule$2
+ io.wazo.callkeep.CallKeepModule$VoiceBroadcastReceiver
+io/wazo/callkeep/Constants.java
+ io.wazo.callkeep.Constants
+io/wazo/callkeep/CallKeepBackgroundMessagingService.java
+ io.wazo.callkeep.CallKeepBackgroundMessagingService
+io/wazo/callkeep/BuildConfig.java
+ io.wazo.callkeep.BuildConfig
+io/wazo/callkeep/VoiceConnection.java
+ io.wazo.callkeep.VoiceConnection
+ io.wazo.callkeep.VoiceConnection$1
+io/wazo/callkeep/VoiceConference.java
+ io.wazo.callkeep.VoiceConference
+io/wazo/callkeep/utils/Callback.java
+ io.wazo.callkeep.utils.Callback

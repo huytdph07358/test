@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "F:\\PancakeChat-develop\\PancakeChat-develop\\mobile\\build\\app\\intermediates\\res\\merged\\debug\\raw_sound.wav.flat",
+        "source": "F:\\PancakeChat-develop\\PancakeChat-develop\\mobile\\android\\app\\src\\main\\res\\raw\\sound.wav"
+    },
+    {
+        "merged": "F:\\PancakeChat-develop\\PancakeChat-develop\\mobile\\build\\app\\intermediates\\res\\merged\\debug\\raw_incoming_sound.mp3.flat",
+        "source": "F:\\PancakeChat-develop\\PancakeChat-develop\\mobile\\android\\app\\src\\main\\res\\raw\\incoming_sound.mp3"
+    },
+    {
+        "merged": "F:\\PancakeChat-develop\\PancakeChat-develop\\mobile\\build\\app\\intermediates\\res\\merged\\debug\\raw_incoming.mp3.flat",
+        "source": "F:\\PancakeChat-develop\\PancakeChat-develop\\mobile\\android\\app\\src\\main\\res\\raw\\incoming.mp3"
+    },
+    {
+        "merged": "F:\\PancakeChat-develop\\PancakeChat-develop\\mobile\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "F:\\PancakeChat-develop\\PancakeChat-develop\\mobile\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\PancakeChat-develop\\PancakeChat-develop\\mobile\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "F:\\PancakeChat-develop\\PancakeChat-develop\\mobile\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\PancakeChat-develop\\PancakeChat-develop\\mobile\\build\\app\\intermediates\\res\\merged\\debug\\drawable_panchat_logo_72x72.png.flat",
+        "source": "F:\\PancakeChat-develop\\PancakeChat-develop\\mobile\\android\\app\\src\\main\\res\\drawable\\panchat_logo_72x72.png"
+    },
+    {
+        "merged": "F:\\PancakeChat-develop\\PancakeChat-develop\\mobile\\build\\app\\intermediates\\res\\merged\\debug\\drawable_ic_small_panchat_final.png.flat",
+        "source": "F:\\PancakeChat-develop\\PancakeChat-develop\\mobile\\android\\app\\src\\main\\res\\drawable\\ic_small_panchat_final.png"
+    },
+    {
+        "merged": "F:\\PancakeChat-develop\\PancakeChat-develop\\mobile\\build\\app\\intermediates\\res\\merged\\debug\\drawable_panchat_logo_small.png.flat",
+        "source": "F:\\PancakeChat-develop\\PancakeChat-develop\\mobile\\android\\app\\src\\main\\res\\drawable\\panchat_logo_small.png"
+    },
+    {
+        "merged": "F:\\PancakeChat-develop\\PancakeChat-develop\\mobile\\build\\app\\intermediates\\res\\merged\\debug\\xml_network_security_config.xml.flat",
+        "source": "F:\\PancakeChat-develop\\PancakeChat-develop\\mobile\\android\\app\\src\\main\\res\\xml\\network_security_config.xml"
+    },
+    {
+        "merged": "F:\\PancakeChat-develop\\PancakeChat-develop\\mobile\\build\\app\\intermediates\\res\\merged\\debug\\xml_file_provider_paths.xml.flat",
+        "source": "F:\\PancakeChat-develop\\PancakeChat-develop\\mobile\\android\\app\\src\\main\\res\\xml\\file_provider_paths.xml"
+    },
+    {
+        "merged": "F:\\PancakeChat-develop\\PancakeChat-develop\\mobile\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "F:\\PancakeChat-develop\\PancakeChat-develop\\mobile\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\PancakeChat-develop\\PancakeChat-develop\\mobile\\build\\app\\intermediates\\res\\merged\\debug\\raw_send.wav.flat",
+        "source": "F:\\PancakeChat-develop\\PancakeChat-develop\\mobile\\android\\app\\src\\main\\res\\raw\\send.wav"
+    },
+    {
+        "merged": "F:\\PancakeChat-develop\\PancakeChat-develop\\mobile\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "F:\\PancakeChat-develop\\PancakeChat-develop\\mobile\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\PancakeChat-develop\\PancakeChat-develop\\mobile\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "F:\\PancakeChat-develop\\PancakeChat-develop\\mobile\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\PancakeChat-develop\\PancakeChat-develop\\mobile\\build\\app\\intermediates\\res\\merged\\debug\\drawable_ic_launcher.png.flat",
+        "source": "F:\\PancakeChat-develop\\PancakeChat-develop\\mobile\\android\\app\\src\\main\\res\\drawable\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\PancakeChat-develop\\PancakeChat-develop\\mobile\\build\\app\\intermediates\\res\\merged\\debug\\drawable_launch_background.xml.flat",
+        "source": "F:\\PancakeChat-develop\\PancakeChat-develop\\mobile\\android\\app\\src\\main\\res\\drawable\\launch_background.xml"
+    },
+    {
+        "merged": "F:\\PancakeChat-develop\\PancakeChat-develop\\mobile\\build\\app\\intermediates\\res\\merged\\debug\\drawable_panchat50.png.flat",
+        "source": "F:\\PancakeChat-develop\\PancakeChat-develop\\mobile\\android\\app\\src\\main\\res\\drawable\\panchat50.png"
+    },
+    {
+        "merged": "F:\\PancakeChat-develop\\PancakeChat-develop\\mobile\\build\\app\\intermediates\\res\\merged\\debug\\drawable_panchat70.png.flat",
+        "source": "F:\\PancakeChat-develop\\PancakeChat-develop\\mobile\\android\\app\\src\\main\\res\\drawable\\panchat70.png"
+    }
+]

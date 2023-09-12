@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "592269086567",
+    "firebase_url": "https://pancake-chat.firebaseio.com",
+    "project_id": "pancake-chat",
+    "storage_bucket": "pancake-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:592269086567:android:1caaa05c0e084933e429c2",
+        "android_client_info": {
+          "package_name": "vn.pancake.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "592269086567-svvre3eau0opue9vmpd3kvntm9i90opd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBw1fRJiQ55Zc98TwF68ehTTDcrD-S6u8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "592269086567-svvre3eau0opue9vmpd3kvntm9i90opd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "592269086567-28pkpqovcrb4t55scljl3h91sanvusa6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "vn.pancake.chat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,105 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\huy\AppData\Local\Pub\Cache\git\flutter_callkit_incoming-2c109bd3c14dd9f2f0ecb5e333a43f3f400fab84\android\src\main\AndroidManifest.xml:1:1-49:12
+INJECTED from C:\Users\huy\AppData\Local\Pub\Cache\git\flutter_callkit_incoming-2c109bd3c14dd9f2f0ecb5e333a43f3f400fab84\android\src\main\AndroidManifest.xml:1:1-49:12
+INJECTED from C:\Users\huy\AppData\Local\Pub\Cache\git\flutter_callkit_incoming-2c109bd3c14dd9f2f0ecb5e333a43f3f400fab84\android\src\main\AndroidManifest.xml:1:1-49:12
+	package
+		ADDED from C:\Users\huy\AppData\Local\Pub\Cache\git\flutter_callkit_incoming-2c109bd3c14dd9f2f0ecb5e333a43f3f400fab84\android\src\main\AndroidManifest.xml:2:5-50
+		INJECTED from C:\Users\huy\AppData\Local\Pub\Cache\git\flutter_callkit_incoming-2c109bd3c14dd9f2f0ecb5e333a43f3f400fab84\android\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\huy\AppData\Local\Pub\Cache\git\flutter_callkit_incoming-2c109bd3c14dd9f2f0ecb5e333a43f3f400fab84\android\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\huy\AppData\Local\Pub\Cache\git\flutter_callkit_incoming-2c109bd3c14dd9f2f0ecb5e333a43f3f400fab84\android\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.USE_FULL_SCREEN_INTENT
+ADDED from C:\Users\huy\AppData\Local\Pub\Cache\git\flutter_callkit_incoming-2c109bd3c14dd9f2f0ecb5e333a43f3f400fab84\android\src\main\AndroidManifest.xml:4:5-80
+	android:name
+		ADDED from C:\Users\huy\AppData\Local\Pub\Cache\git\flutter_callkit_incoming-2c109bd3c14dd9f2f0ecb5e333a43f3f400fab84\android\src\main\AndroidManifest.xml:4:22-78
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\huy\AppData\Local\Pub\Cache\git\flutter_callkit_incoming-2c109bd3c14dd9f2f0ecb5e333a43f3f400fab84\android\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from C:\Users\huy\AppData\Local\Pub\Cache\git\flutter_callkit_incoming-2c109bd3c14dd9f2f0ecb5e333a43f3f400fab84\android\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.VIBRATE
+ADDED from C:\Users\huy\AppData\Local\Pub\Cache\git\flutter_callkit_incoming-2c109bd3c14dd9f2f0ecb5e333a43f3f400fab84\android\src\main\AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from C:\Users\huy\AppData\Local\Pub\Cache\git\flutter_callkit_incoming-2c109bd3c14dd9f2f0ecb5e333a43f3f400fab84\android\src\main\AndroidManifest.xml:6:22-63
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\huy\AppData\Local\Pub\Cache\git\flutter_callkit_incoming-2c109bd3c14dd9f2f0ecb5e333a43f3f400fab84\android\src\main\AndroidManifest.xml:7:5-68
+	android:name
+		ADDED from C:\Users\huy\AppData\Local\Pub\Cache\git\flutter_callkit_incoming-2c109bd3c14dd9f2f0ecb5e333a43f3f400fab84\android\src\main\AndroidManifest.xml:7:22-65
+application
+ADDED from C:\Users\huy\AppData\Local\Pub\Cache\git\flutter_callkit_incoming-2c109bd3c14dd9f2f0ecb5e333a43f3f400fab84\android\src\main\AndroidManifest.xml:10:5-48:19
+activity#com.hiennv.flutter_callkit_incoming.CallkitIncomingActivity
+ADDED from C:\Users\huy\AppData\Local\Pub\Cache\git\flutter_callkit_incoming-2c109bd3c14dd9f2f0ecb5e333a43f3f400fab84\android\src\main\AndroidManifest.xml:12:9-24:20
+	android:screenOrientation
+		ADDED from C:\Users\huy\AppData\Local\Pub\Cache\git\flutter_callkit_incoming-2c109bd3c14dd9f2f0ecb5e333a43f3f400fab84\android\src\main\AndroidManifest.xml:15:13-49
+	android:excludeFromRecents
+		ADDED from C:\Users\huy\AppData\Local\Pub\Cache\git\flutter_callkit_incoming-2c109bd3c14dd9f2f0ecb5e333a43f3f400fab84\android\src\main\AndroidManifest.xml:14:13-46
+	android:launchMode
+		ADDED from C:\Users\huy\AppData\Local\Pub\Cache\git\flutter_callkit_incoming-2c109bd3c14dd9f2f0ecb5e333a43f3f400fab84\android\src\main\AndroidManifest.xml:17:13-44
+	android:exported
+		ADDED from C:\Users\huy\AppData\Local\Pub\Cache\git\flutter_callkit_incoming-2c109bd3c14dd9f2f0ecb5e333a43f3f400fab84\android\src\main\AndroidManifest.xml:18:13-36
+	android:showOnLockScreen
+		ADDED from C:\Users\huy\AppData\Local\Pub\Cache\git\flutter_callkit_incoming-2c109bd3c14dd9f2f0ecb5e333a43f3f400fab84\android\src\main\AndroidManifest.xml:16:13-44
+	android:theme
+		ADDED from C:\Users\huy\AppData\Local\Pub\Cache\git\flutter_callkit_incoming-2c109bd3c14dd9f2f0ecb5e333a43f3f400fab84\android\src\main\AndroidManifest.xml:19:13-56
+	android:name
+		ADDED from C:\Users\huy\AppData\Local\Pub\Cache\git\flutter_callkit_incoming-2c109bd3c14dd9f2f0ecb5e333a43f3f400fab84\android\src\main\AndroidManifest.xml:13:13-87
+intent-filter#action:name:com.hiennv.flutter_callkit_incoming.ACTION_CALL_INCOMING+category:name:android.intent.category.DEFAULT
+ADDED from C:\Users\huy\AppData\Local\Pub\Cache\git\flutter_callkit_incoming-2c109bd3c14dd9f2f0ecb5e333a43f3f400fab84\android\src\main\AndroidManifest.xml:20:13-23:29
+action#com.hiennv.flutter_callkit_incoming.ACTION_CALL_INCOMING
+ADDED from C:\Users\huy\AppData\Local\Pub\Cache\git\flutter_callkit_incoming-2c109bd3c14dd9f2f0ecb5e333a43f3f400fab84\android\src\main\AndroidManifest.xml:21:17-99
+	android:name
+		ADDED from C:\Users\huy\AppData\Local\Pub\Cache\git\flutter_callkit_incoming-2c109bd3c14dd9f2f0ecb5e333a43f3f400fab84\android\src\main\AndroidManifest.xml:21:25-96
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\huy\AppData\Local\Pub\Cache\git\flutter_callkit_incoming-2c109bd3c14dd9f2f0ecb5e333a43f3f400fab84\android\src\main\AndroidManifest.xml:22:17-76
+	android:name
+		ADDED from C:\Users\huy\AppData\Local\Pub\Cache\git\flutter_callkit_incoming-2c109bd3c14dd9f2f0ecb5e333a43f3f400fab84\android\src\main\AndroidManifest.xml:22:27-73
+activity#com.hiennv.flutter_callkit_incoming.TransparentActivity
+ADDED from C:\Users\huy\AppData\Local\Pub\Cache\git\flutter_callkit_incoming-2c109bd3c14dd9f2f0ecb5e333a43f3f400fab84\android\src\main\AndroidManifest.xml:25:9-28:85
+	android:exported
+		ADDED from C:\Users\huy\AppData\Local\Pub\Cache\git\flutter_callkit_incoming-2c109bd3c14dd9f2f0ecb5e333a43f3f400fab84\android\src\main\AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from C:\Users\huy\AppData\Local\Pub\Cache\git\flutter_callkit_incoming-2c109bd3c14dd9f2f0ecb5e333a43f3f400fab84\android\src\main\AndroidManifest.xml:27:13-52
+	android:name
+		ADDED from C:\Users\huy\AppData\Local\Pub\Cache\git\flutter_callkit_incoming-2c109bd3c14dd9f2f0ecb5e333a43f3f400fab84\android\src\main\AndroidManifest.xml:28:13-83
+receiver#com.hiennv.flutter_callkit_incoming.CallkitIncomingBroadcastReceiver
+ADDED from C:\Users\huy\AppData\Local\Pub\Cache\git\flutter_callkit_incoming-2c109bd3c14dd9f2f0ecb5e333a43f3f400fab84\android\src\main\AndroidManifest.xml:30:9-41:20
+	android:enabled
+		ADDED from C:\Users\huy\AppData\Local\Pub\Cache\git\flutter_callkit_incoming-2c109bd3c14dd9f2f0ecb5e333a43f3f400fab84\android\src\main\AndroidManifest.xml:32:13-35
+	android:exported
+		ADDED from C:\Users\huy\AppData\Local\Pub\Cache\git\flutter_callkit_incoming-2c109bd3c14dd9f2f0ecb5e333a43f3f400fab84\android\src\main\AndroidManifest.xml:33:13-36
+	android:name
+		ADDED from C:\Users\huy\AppData\Local\Pub\Cache\git\flutter_callkit_incoming-2c109bd3c14dd9f2f0ecb5e333a43f3f400fab84\android\src\main\AndroidManifest.xml:31:13-96
+intent-filter#action:name:com.hiennv.flutter_callkit_incoming.ACTION_CALL_ACCEPT+action:name:com.hiennv.flutter_callkit_incoming.ACTION_CALL_DECLINE+action:name:com.hiennv.flutter_callkit_incoming.ACTION_CALL_ENDED+action:name:com.hiennv.flutter_callkit_incoming.ACTION_CALL_INCOMING+action:name:com.hiennv.flutter_callkit_incoming.ACTION_CALL_TIMEOUT
+ADDED from C:\Users\huy\AppData\Local\Pub\Cache\git\flutter_callkit_incoming-2c109bd3c14dd9f2f0ecb5e333a43f3f400fab84\android\src\main\AndroidManifest.xml:34:13-40:29
+action#com.hiennv.flutter_callkit_incoming.ACTION_CALL_ACCEPT
+ADDED from C:\Users\huy\AppData\Local\Pub\Cache\git\flutter_callkit_incoming-2c109bd3c14dd9f2f0ecb5e333a43f3f400fab84\android\src\main\AndroidManifest.xml:36:17-97
+	android:name
+		ADDED from C:\Users\huy\AppData\Local\Pub\Cache\git\flutter_callkit_incoming-2c109bd3c14dd9f2f0ecb5e333a43f3f400fab84\android\src\main\AndroidManifest.xml:36:25-94
+action#com.hiennv.flutter_callkit_incoming.ACTION_CALL_DECLINE
+ADDED from C:\Users\huy\AppData\Local\Pub\Cache\git\flutter_callkit_incoming-2c109bd3c14dd9f2f0ecb5e333a43f3f400fab84\android\src\main\AndroidManifest.xml:37:17-98
+	android:name
+		ADDED from C:\Users\huy\AppData\Local\Pub\Cache\git\flutter_callkit_incoming-2c109bd3c14dd9f2f0ecb5e333a43f3f400fab84\android\src\main\AndroidManifest.xml:37:25-95
+action#com.hiennv.flutter_callkit_incoming.ACTION_CALL_ENDED
+ADDED from C:\Users\huy\AppData\Local\Pub\Cache\git\flutter_callkit_incoming-2c109bd3c14dd9f2f0ecb5e333a43f3f400fab84\android\src\main\AndroidManifest.xml:38:17-96
+	android:name
+		ADDED from C:\Users\huy\AppData\Local\Pub\Cache\git\flutter_callkit_incoming-2c109bd3c14dd9f2f0ecb5e333a43f3f400fab84\android\src\main\AndroidManifest.xml:38:25-93
+action#com.hiennv.flutter_callkit_incoming.ACTION_CALL_TIMEOUT
+ADDED from C:\Users\huy\AppData\Local\Pub\Cache\git\flutter_callkit_incoming-2c109bd3c14dd9f2f0ecb5e333a43f3f400fab84\android\src\main\AndroidManifest.xml:39:17-98
+	android:name
+		ADDED from C:\Users\huy\AppData\Local\Pub\Cache\git\flutter_callkit_incoming-2c109bd3c14dd9f2f0ecb5e333a43f3f400fab84\android\src\main\AndroidManifest.xml:39:25-95
+service#com.hiennv.flutter_callkit_incoming.CallkitSoundPlayerService
+ADDED from C:\Users\huy\AppData\Local\Pub\Cache\git\flutter_callkit_incoming-2c109bd3c14dd9f2f0ecb5e333a43f3f400fab84\android\src\main\AndroidManifest.xml:43:9-46:91
+	android:enabled
+		ADDED from C:\Users\huy\AppData\Local\Pub\Cache\git\flutter_callkit_incoming-2c109bd3c14dd9f2f0ecb5e333a43f3f400fab84\android\src\main\AndroidManifest.xml:44:13-35
+	android:exported
+		ADDED from C:\Users\huy\AppData\Local\Pub\Cache\git\flutter_callkit_incoming-2c109bd3c14dd9f2f0ecb5e333a43f3f400fab84\android\src\main\AndroidManifest.xml:45:13-36
+	android:name
+		ADDED from C:\Users\huy\AppData\Local\Pub\Cache\git\flutter_callkit_incoming-2c109bd3c14dd9f2f0ecb5e333a43f3f400fab84\android\src\main\AndroidManifest.xml:46:13-89
+uses-sdk
+INJECTED from C:\Users\huy\AppData\Local\Pub\Cache\git\flutter_callkit_incoming-2c109bd3c14dd9f2f0ecb5e333a43f3f400fab84\android\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\huy\AppData\Local\Pub\Cache\git\flutter_callkit_incoming-2c109bd3c14dd9f2f0ecb5e333a43f3f400fab84\android\src\main\AndroidManifest.xml
+INJECTED from C:\Users\huy\AppData\Local\Pub\Cache\git\flutter_callkit_incoming-2c109bd3c14dd9f2f0ecb5e333a43f3f400fab84\android\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\huy\AppData\Local\Pub\Cache\git\flutter_callkit_incoming-2c109bd3c14dd9f2f0ecb5e333a43f3f400fab84\android\src\main\AndroidManifest.xml
+		ADDED from C:\Users\huy\AppData\Local\Pub\Cache\git\flutter_callkit_incoming-2c109bd3c14dd9f2f0ecb5e333a43f3f400fab84\android\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\huy\AppData\Local\Pub\Cache\git\flutter_callkit_incoming-2c109bd3c14dd9f2f0ecb5e333a43f3f400fab84\android\src\main\AndroidManifest.xml

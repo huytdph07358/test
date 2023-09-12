@@ -1,0 +1,2 @@
+com/hiennv/flutter_callkit_incoming/BuildConfig.java
+ com.hiennv.flutter_callkit_incoming.BuildConfig

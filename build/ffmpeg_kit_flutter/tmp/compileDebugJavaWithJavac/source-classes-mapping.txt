@@ -1,0 +1,15 @@
+com/arthenica/ffmpegkit/flutter/MediaInformationSessionExecuteTask.java
+ com.arthenica.ffmpegkit.flutter.MediaInformationSessionExecuteTask
+com/arthenica/ffmpegkit/flutter/WriteToPipeTask.java
+ com.arthenica.ffmpegkit.flutter.WriteToPipeTask
+com/arthenica/ffmpegkit/flutter/BuildConfig.java
+ com.arthenica.ffmpegkit.flutter.BuildConfig
+com/arthenica/ffmpegkit/flutter/FFmpegKitFlutterPlugin.java
+ com.arthenica.ffmpegkit.flutter.FFmpegKitFlutterPlugin
+ com.arthenica.ffmpegkit.flutter.FFmpegKitFlutterPlugin$1
+com/arthenica/ffmpegkit/flutter/FFmpegKitFlutterMethodResultHandler.java
+ com.arthenica.ffmpegkit.flutter.FFmpegKitFlutterMethodResultHandler
+com/arthenica/ffmpegkit/flutter/FFprobeSessionExecuteTask.java
+ com.arthenica.ffmpegkit.flutter.FFprobeSessionExecuteTask
+com/arthenica/ffmpegkit/flutter/FFmpegSessionExecuteTask.java
+ com.arthenica.ffmpegkit.flutter.FFmpegSessionExecuteTask

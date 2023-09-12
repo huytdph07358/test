@@ -1,0 +1,4 @@
+fr/g123k/flutterappbadge/flutterappbadger/BuildConfig.java
+ fr.g123k.flutterappbadge.flutterappbadger.BuildConfig
+fr/g123k/flutterappbadger/FlutterAppBadgerPlugin.java
+ fr.g123k.flutterappbadger.FlutterAppBadgerPlugin

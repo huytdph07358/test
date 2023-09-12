@@ -1,0 +1,6 @@
+R_DEF: Internal format may change without notice
+local
+id exo_player_surface_view
+id native_video_view
+layout exoplayer_layout
+layout video_layout

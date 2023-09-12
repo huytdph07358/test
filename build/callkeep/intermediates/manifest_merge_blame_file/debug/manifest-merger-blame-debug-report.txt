@@ -1,0 +1,15 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="io.wazo.callkeep" >
+4
+5    <uses-sdk android:minSdkVersion="23" />
+5-->C:\Users\huy\AppData\Local\Pub\Cache\git\callkeep-d8f5417037f06cd62b5b3559349b10f340f9fbfe\android\src\main\AndroidManifest.xml
+6
+7    <uses-permission android:name="android.permission.CALL_PHONE" />
+7-->C:\Users\huy\AppData\Local\Pub\Cache\git\callkeep-d8f5417037f06cd62b5b3559349b10f340f9fbfe\android\src\main\AndroidManifest.xml:4:5-69
+7-->C:\Users\huy\AppData\Local\Pub\Cache\git\callkeep-d8f5417037f06cd62b5b3559349b10f340f9fbfe\android\src\main\AndroidManifest.xml:4:22-66
+8    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+8-->C:\Users\huy\AppData\Local\Pub\Cache\git\callkeep-d8f5417037f06cd62b5b3559349b10f340f9fbfe\android\src\main\AndroidManifest.xml:5:5-75
+8-->C:\Users\huy\AppData\Local\Pub\Cache\git\callkeep-d8f5417037f06cd62b5b3559349b10f340f9fbfe\android\src\main\AndroidManifest.xml:5:22-72
+9
+10</manifest>
